@@ -16,6 +16,8 @@ theme:
     - navigation.indexes
     - header.autohide
     - toc.follow
+  palette:
+    - primary: black
 
 nav:
   - Home: README.md
