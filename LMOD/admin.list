@@ -112,10 +112,8 @@ The spack/23.03 modules are no longer supported as essential system components a
 longer on the system.
 
 spack/23.09:
-The Spack module based on the 23.09 programming environment is deprecated as we cannot
-guarantee that the compiler and MPI library will work on the updated LUMI system. The
-stack will be removed when we are confident that a spack setup based on 24.03 is in
-a sufficient state to be used and has been available for some time.
+The spack/23.09 module is no longer supported and only offered as-is. Note that there
+are known issues already with components of the 23.09 programming environment.
 
 lumi%-container%-wrapper/0%.[2-3]%..*:
 This version of lumi-container-wrapper is deprecated. Please switch to version 0.4.2 or
